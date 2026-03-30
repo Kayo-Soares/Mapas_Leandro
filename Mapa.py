@@ -5,7 +5,7 @@ import json
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+import openpyxl 
 # 1. Configurações Iniciais de Alta Performance
 st.set_page_config(
     page_title="Mapa Premium CEP Master", 
